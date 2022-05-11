@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yana-Zubrytska
-- 👀 I’m looking for passionate developers who have the opportunity and wish to be engaged in exciting programming and educational projects. Sweden.
-- 🌱 I’m a  Junior Recruiter  at ZoCom. We are a data-driven agency wich has put together technology, pedagogy and business development to a functioning entirety.
+- 👀 I’m looking for passionate developers who have the opportunity and wish to be engaged in exciting projects in Sweden.
+- 🌱 I’m a  Talent Acquisition Partner at ALTEN Sweden. 
 - 💞️ I'm in love with my profession! We help people to match the labour market and be happy at work!
-- 📫 How to reach me => yana.zubrytska@zocom.se. Want to know more about ZoCom? Check here => https://www.zocom.com.
+- 📫 How to reach me => yana.zubrytska@alten.se. Want to know more about ALTEN? Check here => https://www.alten.se/en/.
 
 <!---
 Yana-Zubrytska/Yana-Zubrytska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
